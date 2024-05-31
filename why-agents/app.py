@@ -3,39 +3,33 @@ import streamlit as st
 # Title and Introduction
 st.title('Understand LLM Integration Levels')
 st.write('Explore the different levels of LLM Integrations in a customer support scenario.')
-details="""
-### Level 1: Single Prompt and Answer
 
-- **Overview**: At this most basic level, the system provides direct answers to user queries without any further action.
-- **Functionality**: Users input a question and receive an immediate answer based purely on the input provided.
-- **Flow of Information**: One-way flow of information from the user to the system, with no further interaction required.
+details = """
+### Level 1: Single Prompt and Answer
+- **Overview**: At this level, the LLM answers simple queries directly based on a predefined knowledge base without any additional computation or context.
+- **Example**: A user asks for the business hours of a store, and the LLM responds based on stored information.
+- **Flow of Information**: Simple one-way flow from the user to the system. The system responds directly to the user's query without further interaction.
 
 ### Level 2: Prompt as a Router
-
-- **Overview**: This level introduces a router that directs prompts to initiate specific actions or tools without providing a direct response.
-- **Functionality**: A user input triggers specific actions or tool activations, guiding the process flow in one direction without back-and-forth interaction.
-- **Flow of Information**: One-way flow of information from the user to the system, with the system directing the user to the appropriate tools or actions.
+- **Overview**: Here, the LLM acts as an intelligent router, directing the user's query to appropriate services or departments.
+- **Example**: A customer's request to speak with a sales representative is routed to the sales department without additional input from the LLM.
+- **Flow of Information**: One-way flow where the system routes or escalates the query to the right channel based on the user's input.
 
 ### Level 3: Single Agent with Tools
-
-- **Overview**: An intelligent agent at this level has the capability to decide which tools to use, execute them, and then choose to either loop within the tools for further processing or return a response.
-- **Functionality**: The agent dynamically handles the interaction, deciding the flow of data and tools, which allows for a two-way information exchange.
-- **Flow of Information**: Two-way flow of information between the user and the system, with the agent deciding the flow of tools and data.
+- **Overview**: The LLM not only understands the query but also utilizes integrated tools to fetch data or perform tasks before providing a response.
+- **Example**: A customer asks about the status of an order, and the LLM checks the current status in real-time from the database to provide an update.
+- **Flow of Information**: Dynamic two-way flow between the user and the system. The system may loop through different tools or databases to gather information and respond.
 
 ### Level 4: Multiple Agents with Tools
-
-- **Overview**: The most complex level involves multiple agents, each equipped with one or more specialized tools. These agents can communicate and coordinate with each other, managing different tasks.
-- **Functionality**: Information flows in all directions among multiple agents, each handling specific tasks and collaborating to resolve more complex scenarios effectively.
-- **Flow of Information**: Multi-directional flow of information among multiple agents and tools, allowing for comprehensive handling of complex user queries.
-
+- **Overview**: Multiple LLMs coordinate among themselves, each with specialized roles, to handle complex queries.
+- **Example**: A customer has a technical issue that affects billing. One LLM handles the technical troubleshooting while another interacts with the billing system to adjust the charges.
+- **Flow of Information**: Multidirectional flow among various agents and tools, enabling complex interactions and comprehensive problem-solving capabilities.
 """
+
 with st.expander("See details on LLM Integration levels"):
     st.markdown(details)
+
 # User input
-
-import streamlit as st
-
-# Dropdown menu for selecting queries
 query_options = {
     "How do I reset my password?": "Level 1",
     "My phone won’t turn on": "Level 2",
@@ -45,7 +39,7 @@ query_options = {
     "Track my order status": "Level 3",
     "Issue with software update": "Level 4"
 }
-query = st.selectbox("Choose a customer support query:", list(query_options.keys()))
+query = st.selectbox("Choose a sample customer support query:", list(query_options.keys()))
 
 # Define responses and explanations for each level
 responses = {
@@ -75,4 +69,3 @@ else:
 st.write(explanation)
 st.write("### Response:")
 st.write(response)
-
