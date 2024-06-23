@@ -1,0 +1,63 @@
+text,label
+is it raining outside olly,weather_query
+tell me the artist of this song,music_query
+domino's delivery status,takeaway_query
+olly play music from my favorite pianist,play_music
+does dominoes do takeaway,takeaway_query
+what is the weather like in toronto,weather_query
+is it going to rain in the evening,weather_query
+what is happening in the world,news_query
+tell me the weather in shanghai,weather_query
+olly show me some news from b. b. c.,news_query
+what is the weather now,weather_query
+olly what music do i usually like after work,music_query
+olly list most rated delivery options for chinese food,takeaway_query
+what is the current state of brexit negotiations,news_query
+show me some news from b. b. c.,news_query
+start my jazz playlist,play_music
+most rated delivery options for chinese food,takeaway_query
+play a song i like,play_music
+find my thai takeaways around grassmarket,takeaway_query
+what music is this,music_query
+turn on my michael jackson playlist,play_music
+tell me latest technology news,news_query
+is it raining now,weather_query
+what is the forecast for today,weather_query
+what's going on in the world,news_query
+is it currently snowing,weather_query
+olly hackernews,news_query
+death metal now,play_music
+i want some curry to go any recommendations olly,takeaway_query
+what's happening in cambridge,news_query
+who is going to win the next elections in the france,news_query
+olly most rated delivery options for chinese food,takeaway_query
+play my jazz playlist,play_music
+will it rain today,weather_query
+when is my order arriving,takeaway_query
+please play my best music,play_music
+what is this song,music_query
+play daft punk,play_music
+start playing music from favorites,play_music
+what's playing,music_query
+play michael jackson from my playlist,play_music
+play me some hihop,play_music
+i want to play that music one again,play_music
+tell me the name of the song,music_query
+what the singer meant by the title of the song bohemian rhapsody,music_query
+does byron's supports takeaways,takeaway_query
+what's going on outside,weather_query
+tell me b. b. c. news,news_query
+how long until my takeaway,takeaway_query
+put on some coldplay,play_music
+play my favorite playlist,play_music
+what's this weeks weather,weather_query
+i want to listen arijit singh song once again,play_music
+tell me the news,news_query
+is it raining,weather_query
+i want some curry to go any recommendations,takeaway_query
+what is the weather in paris,weather_query
+is it going to rain,weather_query
+is it raining in barcelona,weather_query
+what's the news on b. b. c. news,news_query
+do you expect sun on sunday,weather_query
+what's happening in football today,news_query

@@ -1,0 +1,9 @@
+text,label
+set lights to twenty percent,iot_hue_lightchange
+turn the lights blue,iot_hue_lightchange
+set brightness to fifty percent,iot_hue_lightchange
+make the lights shine blue,iot_hue_lightchange
+please set the lighting suitable for reading,iot_hue_lightchange
+please make the lights watching friendly,iot_hue_lightchange
+change the lights into green,iot_hue_lightchange
+olly set lights to twenty percent,iot_hue_lightchange

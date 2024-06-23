@@ -1,0 +1,203 @@
+{"id":"1","label":48,"text":"wake me up at nine am on friday","label_text":"alarm_set"}
+{"id":"2","label":48,"text":"set an alarm for two hours from now","label_text":"alarm_set"}
+{"id":"4","label":46,"text":"olly quiet","label_text":"audio_volume_mute"}
+{"id":"5","label":46,"text":"stop","label_text":"audio_volume_mute"}
+{"id":"6","label":46,"text":"olly pause for ten seconds","label_text":"audio_volume_mute"}
+{"id":"7","label":46,"text":"pause for ten seconds","label_text":"audio_volume_mute"}
+{"id":"9","label":1,"text":"make the lighting bit more warm here","label_text":"iot_hue_lightchange"}
+{"id":"10","label":1,"text":"please set the lighting suitable for reading","label_text":"iot_hue_lightchange"}
+{"id":"12","label":40,"text":"time to sleep","label_text":"iot_hue_lightoff"}
+{"id":"13","label":40,"text":"time to sleep olly","label_text":"iot_hue_lightoff"}
+{"id":"15","label":40,"text":"turn off the light in the bathroom","label_text":"iot_hue_lightoff"}
+{"id":"16","label":31,"text":"olly dim the lights in the hall","label_text":"iot_hue_lightdim"}
+{"id":"18","label":40,"text":"turn the lights off in the bedroom","label_text":"iot_hue_lightoff"}
+{"id":"20","label":1,"text":"set lights to twenty percent","label_text":"iot_hue_lightchange"}
+{"id":"21","label":1,"text":"olly set lights to twenty percent","label_text":"iot_hue_lightchange"}
+{"id":"22","label":31,"text":"dim the lights in the kitchen olly","label_text":"iot_hue_lightdim"}
+{"id":"23","label":31,"text":"dim the lights in the kitchen","label_text":"iot_hue_lightdim"}
+{"id":"25","label":34,"text":"olly clean the flat","label_text":"iot_cleaning"}
+{"id":"28","label":34,"text":"vacuum the house","label_text":"iot_cleaning"}
+{"id":"29","label":34,"text":"vacuum the house olly","label_text":"iot_cleaning"}
+{"id":"32","label":34,"text":"hoover the carpets around","label_text":"iot_cleaning"}
+{"id":"33","label":32,"text":"check when the show starts","label_text":"calendar_query"}
+{"id":"34","label":45,"text":"i want to listen arijit singh song once again","label_text":"play_music"}
+{"id":"35","label":45,"text":"i want to play that music one again","label_text":"play_music"}
+{"id":"36","label":12,"text":"check my car is ready","label_text":"general_quirky"}
+{"id":"37","label":12,"text":"check my laptop is working","label_text":"general_quirky"}
+{"id":"38","label":12,"text":"is the brightness of my screen running low","label_text":"general_quirky"}
+{"id":"39","label":12,"text":"i need to have location services on can you check","label_text":"general_quirky"}
+{"id":"40","label":12,"text":"check the status of my power usage","label_text":"general_quirky"}
+{"id":"43","label":12,"text":"i am not tired i am actually happy","label_text":"general_quirky"}
+{"id":"44","label":12,"text":"olly i am not tired i am actually happy","label_text":"general_quirky"}
+{"id":"45","label":5,"text":"what's up","label_text":"general_greet"}
+{"id":"48","label":0,"text":"tell me the time in moscow","label_text":"datetime_query"}
+{"id":"49","label":38,"text":"tell me the time in g. m. t. plus five","label_text":"datetime_convert"}
+{"id":"51","label":3,"text":"olly list most rated delivery options for chinese food","label_text":"takeaway_query"}
+{"id":"52","label":3,"text":"most rated delivery options for chinese food","label_text":"takeaway_query"}
+{"id":"54","label":3,"text":"olly most rated delivery options for chinese food","label_text":"takeaway_query"}
+{"id":"55","label":3,"text":"i want some curry to go any recommendations","label_text":"takeaway_query"}
+{"id":"56","label":3,"text":"i want some curry to go any recommendations olly","label_text":"takeaway_query"}
+{"id":"57","label":3,"text":"find my thai takeaways around grassmarket","label_text":"takeaway_query"}
+{"id":"60","label":52,"text":"stop seven am alarm","label_text":"alarm_remove"}
+{"id":"62","label":23,"text":"please list active alarms","label_text":"alarm_query"}
+{"id":"65","label":22,"text":"what's happening in football today","label_text":"news_query"}
+{"id":"66","label":45,"text":"please play yesterday from beatles","label_text":"play_music"}
+{"id":"69","label":43,"text":"i like rock music","label_text":"music_likeness"}
+{"id":"70","label":43,"text":"my favorite music band is queen","label_text":"music_likeness"}
+{"id":"72","label":45,"text":"start playing music from favorites","label_text":"play_music"}
+{"id":"73","label":45,"text":"please play my best music","label_text":"play_music"}
+{"id":"75","label":57,"text":"who's current music's author","label_text":"music_query"}
+{"id":"76","label":57,"text":"what's that the album is current music from","label_text":"music_query"}
+{"id":"77","label":43,"text":"olly i'm really enjoying this song","label_text":"music_likeness"}
+{"id":"78","label":43,"text":"the song you are playing is amazing","label_text":"music_likeness"}
+{"id":"79","label":43,"text":"this is one of the best songs for me","label_text":"music_likeness"}
+{"id":"81","label":18,"text":"make lights brightener","label_text":"iot_hue_lightup"}
+{"id":"82","label":18,"text":"please raise the lights to max","label_text":"iot_hue_lightup"}
+{"id":"83","label":34,"text":"hey start vacuum cleaner robot","label_text":"iot_cleaning"}
+{"id":"84","label":34,"text":"turn cleaner robot on","label_text":"iot_cleaning"}
+{"id":"87","label":16,"text":"please order some sushi for dinner","label_text":"takeaway_order"}
+{"id":"88","label":16,"text":"hey i'd like you to order burger","label_text":"takeaway_order"}
+{"id":"91","label":16,"text":"can i order takeaway dinner from byron's","label_text":"takeaway_order"}
+{"id":"92","label":3,"text":"does byron's supports takeaways","label_text":"takeaway_query"}
+{"id":"93","label":48,"text":"set an alarm for twelve","label_text":"alarm_set"}
+{"id":"94","label":48,"text":"set an alarm forty minutes from now","label_text":"alarm_set"}
+{"id":"95","label":48,"text":"set alarm for eight every weekday","label_text":"alarm_set"}
+{"id":"96","label":13,"text":"is it raining","label_text":"weather_query"}
+{"id":"97","label":13,"text":"is it going to rain","label_text":"weather_query"}
+{"id":"98","label":13,"text":"is it currently snowing","label_text":"weather_query"}
+{"id":"101","label":13,"text":"what's this weeks weather","label_text":"weather_query"}
+{"id":"104","label":22,"text":"tell me b. b. c. news","label_text":"news_query"}
+{"id":"105","label":22,"text":"what's the news on b. b. c. news","label_text":"news_query"}
+{"id":"106","label":22,"text":"what is the b. b. c.'s latest news","label_text":"news_query"}
+{"id":"108","label":45,"text":"play a song i like","label_text":"play_music"}
+{"id":"110","label":45,"text":"play daft punk","label_text":"play_music"}
+{"id":"111","label":45,"text":"put on some coldplay","label_text":"play_music"}
+{"id":"114","label":28,"text":"shuffle this playlist","label_text":"music_settings"}
+{"id":"116","label":57,"text":"what's playing","label_text":"music_query"}
+{"id":"117","label":57,"text":"what music is this","label_text":"music_query"}
+{"id":"118","label":57,"text":"tell me the artist of this song","label_text":"music_query"}
+{"id":"119","label":25,"text":"make me laugh","label_text":"general_joke"}
+{"id":"120","label":25,"text":"olly make me laugh","label_text":"general_joke"}
+{"id":"121","label":25,"text":"tell me a good joke","label_text":"general_joke"}
+{"id":"123","label":25,"text":"tell me a joke","label_text":"general_joke"}
+{"id":"125","label":25,"text":"alexa tell me a joke","label_text":"general_joke"}
+{"id":"126","label":25,"text":"cheer me up","label_text":"general_joke"}
+{"id":"129","label":12,"text":"tell me about today","label_text":"general_quirky"}
+{"id":"130","label":16,"text":"order a pizza","label_text":"takeaway_order"}
+{"id":"131","label":16,"text":"order me a byron from deliveroo","label_text":"takeaway_order"}
+{"id":"133","label":3,"text":"when is my order arriving","label_text":"takeaway_query"}
+{"id":"134","label":3,"text":"how long until my takeaway","label_text":"takeaway_query"}
+{"id":"135","label":3,"text":"domino's delivery status","label_text":"takeaway_query"}
+{"id":"136","label":57,"text":"what's playing","label_text":"music_query"}
+{"id":"137","label":57,"text":"tell me the name of the song","label_text":"music_query"}
+{"id":"139","label":45,"text":"play my jazz playlist","label_text":"play_music"}
+{"id":"140","label":45,"text":"start my jazz playlist","label_text":"play_music"}
+{"id":"141","label":45,"text":"play my favorite playlist","label_text":"play_music"}
+{"id":"142","label":43,"text":"that's a good song","label_text":"music_likeness"}
+{"id":"143","label":7,"text":"i don't like it","label_text":"music_dislikeness"}
+{"id":"144","label":43,"text":"i like it","label_text":"music_likeness"}
+{"id":"145","label":43,"text":"i like jazz","label_text":"music_likeness"}
+{"id":"146","label":45,"text":"can you play some jazz","label_text":"play_music"}
+{"id":"149","label":43,"text":"this song was very good","label_text":"music_likeness"}
+{"id":"152","label":29,"text":"change the volume","label_text":"audio_volume_other"}
+{"id":"153","label":28,"text":"enable shuffle","label_text":"music_settings"}
+{"id":"154","label":28,"text":"save settings","label_text":"music_settings"}
+{"id":"155","label":1,"text":"set brightness to fifty percent","label_text":"iot_hue_lightchange"}
+{"id":"156","label":31,"text":"turn down the brightness","label_text":"iot_hue_lightdim"}
+{"id":"157","label":31,"text":"reduce the brightness","label_text":"iot_hue_lightdim"}
+{"id":"159","label":31,"text":"decrease brightness","label_text":"iot_hue_lightdim"}
+{"id":"160","label":31,"text":"dim the lights","label_text":"iot_hue_lightdim"}
+{"id":"161","label":31,"text":"olly dim the lights","label_text":"iot_hue_lightdim"}
+{"id":"162","label":56,"text":"make me a coffee","label_text":"iot_coffee"}
+{"id":"163","label":56,"text":"olly make me a coffee","label_text":"iot_coffee"}
+{"id":"164","label":56,"text":"i need a coffee","label_text":"iot_coffee"}
+{"id":"165","label":56,"text":"i fancy some coffee now","label_text":"iot_coffee"}
+{"id":"166","label":5,"text":"how are you","label_text":"general_greet"}
+{"id":"172","label":48,"text":"set alarm at ten am","label_text":"alarm_set"}
+{"id":"175","label":22,"text":"tell me the latest technology news","label_text":"news_query"}
+{"id":"176","label":22,"text":"tell me latest technology news","label_text":"news_query"}
+{"id":"179","label":13,"text":"tell me the weather","label_text":"weather_query"}
+{"id":"180","label":13,"text":"what is the weather now","label_text":"weather_query"}
+{"id":"181","label":13,"text":"is it raining now","label_text":"weather_query"}
+{"id":"183","label":45,"text":"turn on my michael jackson playlist","label_text":"play_music"}
+{"id":"184","label":45,"text":"play michael jackson from my playlist","label_text":"play_music"}
+{"id":"186","label":45,"text":"play last song from my favorite playlist","label_text":"play_music"}
+{"id":"187","label":14,"text":"turn up the volume","label_text":"audio_volume_up"}
+{"id":"190","label":24,"text":"turn on the plug","label_text":"iot_wemo_on"}
+{"id":"191","label":24,"text":"switch on the plug","label_text":"iot_wemo_on"}
+{"id":"192","label":24,"text":"turn on my plug","label_text":"iot_wemo_on"}
+{"id":"193","label":25,"text":"tell me some joke","label_text":"general_joke"}
+{"id":"194","label":25,"text":"do you know any joke","label_text":"general_joke"}
+{"id":"195","label":0,"text":"what is the time","label_text":"datetime_query"}
+{"id":"196","label":0,"text":"tell me the time","label_text":"datetime_query"}
+{"id":"198","label":3,"text":"does dominoes do takeaway","label_text":"takeaway_query"}
+{"id":"199","label":3,"text":"does my favorite pizza place available for takeaway","label_text":"takeaway_query"}
+{"id":"200","label":16,"text":"can i order takeaway from spanish place","label_text":"takeaway_order"}
+{"id":"202","label":52,"text":"remove the alarm","label_text":"alarm_remove"}
+{"id":"203","label":23,"text":"show me the alarms i set","label_text":"alarm_query"}
+{"id":"204","label":23,"text":"do i have any alarms","label_text":"alarm_query"}
+{"id":"205","label":23,"text":"show alarms","label_text":"alarm_query"}
+{"id":"206","label":13,"text":"how's the weather like in beijing","label_text":"weather_query"}
+{"id":"207","label":13,"text":"tell me the weather in shanghai","label_text":"weather_query"}
+{"id":"209","label":1,"text":"please make the lights reading friendly","label_text":"iot_hue_lightchange"}
+{"id":"210","label":1,"text":"please make the lights watching friendly","label_text":"iot_hue_lightchange"}
+{"id":"211","label":18,"text":"make the room brighter","label_text":"iot_hue_lightup"}
+{"id":"212","label":41,"text":"and the light began","label_text":"iot_hue_lighton"}
+{"id":"213","label":0,"text":"what's date today","label_text":"datetime_query"}
+{"id":"214","label":0,"text":"what day is today","label_text":"datetime_query"}
+{"id":"215","label":0,"text":"tell me a date","label_text":"datetime_query"}
+{"id":"218","label":13,"text":"is it raining outside olly","label_text":"weather_query"}
+{"id":"221","label":1,"text":"change the lights into green","label_text":"iot_hue_lightchange"}
+{"id":"222","label":43,"text":"add this song to my favorite list","label_text":"music_likeness"}
+{"id":"223","label":57,"text":"what is this song","label_text":"music_query"}
+{"id":"224","label":40,"text":"olly lights off","label_text":"iot_hue_lightoff"}
+{"id":"225","label":40,"text":"lights off","label_text":"iot_hue_lightoff"}
+{"id":"226","label":34,"text":"clean the floor please","label_text":"iot_cleaning"}
+{"id":"227","label":24,"text":"turn on the rice cooker socket","label_text":"iot_wemo_on"}
+{"id":"228","label":8,"text":"turn off the rice cooker socket","label_text":"iot_wemo_off"}
+{"id":"231","label":16,"text":"could you please help me to order some sushi from deliveroo","label_text":"takeaway_order"}
+{"id":"233","label":48,"text":"set an alarm for four in the afternoon","label_text":"alarm_set"}
+{"id":"234","label":48,"text":"olly alert me at three p. m. to go to the concert","label_text":"alarm_set"}
+{"id":"235","label":48,"text":"alert me at three p. m. to go to the concert","label_text":"alarm_set"}
+{"id":"236","label":23,"text":"do i have an alarm set for morning flight","label_text":"alarm_query"}
+{"id":"238","label":23,"text":"are there any alarms","label_text":"alarm_query"}
+{"id":"239","label":13,"text":"is it raining in barcelona","label_text":"weather_query"}
+{"id":"240","label":13,"text":"will it rain today","label_text":"weather_query"}
+{"id":"241","label":13,"text":"what's going on outside","label_text":"weather_query"}
+{"id":"243","label":22,"text":"what's going on in the world","label_text":"news_query"}
+{"id":"244","label":22,"text":"what's happening in cambridge","label_text":"news_query"}
+{"id":"245","label":22,"text":"show me some news from b. b. c.","label_text":"news_query"}
+{"id":"246","label":22,"text":"olly show me some news from b. b. c.","label_text":"news_query"}
+{"id":"247","label":22,"text":"play c. n. n. news","label_text":"news_query"}
+{"id":"248","label":22,"text":"olly hackernews","label_text":"news_query"}
+{"id":"249","label":45,"text":"play me some hihop","label_text":"play_music"}
+{"id":"252","label":45,"text":"death metal now","label_text":"play_music"}
+{"id":"255","label":57,"text":"olly what music do i usually like after work","label_text":"music_query"}
+{"id":"257","label":45,"text":"olly play music from my favorite pianist","label_text":"play_music"}
+{"id":"259","label":35,"text":"you're too loud","label_text":"audio_volume_down"}
+{"id":"260","label":14,"text":"i can barely hear you olly","label_text":"audio_volume_up"}
+{"id":"262","label":1,"text":"turn the lights blue","label_text":"iot_hue_lightchange"}
+{"id":"264","label":1,"text":"make the lights shine blue","label_text":"iot_hue_lightchange"}
+{"id":"265","label":40,"text":"olly good night lights off","label_text":"iot_hue_lightoff"}
+{"id":"267","label":41,"text":"it's awfully dark here","label_text":"iot_hue_lighton"}
+{"id":"268","label":18,"text":"make the lights brighter","label_text":"iot_hue_lightup"}
+{"id":"269","label":41,"text":"olly it's too dark i can't even see my hands","label_text":"iot_hue_lighton"}
+{"id":"270","label":0,"text":"what's the time","label_text":"datetime_query"}
+{"id":"273","label":57,"text":"what is the song","label_text":"music_query"}
+{"id":"274","label":57,"text":"olly what is the song","label_text":"music_query"}
+{"id":"275","label":57,"text":"what the singer meant by the title of the song bohemian rhapsody","label_text":"music_query"}
+{"id":"276","label":57,"text":"who covered the song one more cup of coffee","label_text":"music_query"}
+{"id":"277","label":13,"text":"what is the weather in paris","label_text":"weather_query"}
+{"id":"278","label":13,"text":"what is the weather like in toronto","label_text":"weather_query"}
+{"id":"280","label":22,"text":"what is the current state of brexit negotiations","label_text":"news_query"}
+{"id":"282","label":22,"text":"who is going to win the next elections in the france","label_text":"news_query"}
+{"id":"283","label":13,"text":"do you expect sun on sunday","label_text":"weather_query"}
+{"id":"284","label":13,"text":"is it going to rain in the evening","label_text":"weather_query"}
+{"id":"285","label":13,"text":"is it going to be windy tomorrow","label_text":"weather_query"}
+{"id":"287","label":18,"text":"brighten the lamp next to the sofa","label_text":"iot_hue_lightup"}
+{"id":"288","label":18,"text":"lighten the light","label_text":"iot_hue_lightup"}
+{"id":"289","label":0,"text":"what time is it in moscow now","label_text":"datetime_query"}
+{"id":"291","label":34,"text":"vacuum the kitchen","label_text":"iot_cleaning"}
+{"id":"293","label":22,"text":"what is happening in the world","label_text":"news_query"}
+{"id":"294","label":22,"text":"tell me the news","label_text":"news_query"}
+{"id":"300","label":13,"text":"what is the forecast for today","label_text":"weather_query"}

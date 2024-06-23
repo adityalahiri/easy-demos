@@ -1,0 +1,17 @@
+text,label
+please play yesterday from beatles,play_music
+who's current music's author,music_query
+what's that the album is current music from,music_query
+what is the b. b. c.'s latest news,news_query
+what's playing,music_query
+can you play some jazz,play_music
+tell me the latest technology news,news_query
+tell me the weather,weather_query
+play last song from my favorite playlist,play_music
+does my favorite pizza place available for takeaway,takeaway_query
+how's the weather like in beijing,weather_query
+play c. n. n. news,news_query
+what is the song,music_query
+olly what is the song,music_query
+who covered the song one more cup of coffee,music_query
+is it going to be windy tomorrow,weather_query
